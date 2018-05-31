@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 20.6-b01 (Sun Microsystems Inc.)
+Main-Class: ihm.Splash
+Class-Path: lib/mysql-connector-java-5.1.12-bin.jar lib/postgresql-9.2
+ -1002.jdbc4.jar lib/sqlite-jdbc-3.7.15.jar lib/derbyclient.jar lib/ja
+ ybird-full-2.2.1.jar lib/hsqldb.jar lib/beansbinding-1.2.1.jar lib/oj
+ dbc6.jar
+X-COMMENT: Main-Class will be added automatically by build
+
